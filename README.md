@@ -4,7 +4,7 @@ The list can be used as an External Resource, an attribute available in the Secu
 
 Configure your external connection as below:
 
-config system external-resource
+    config system external-resource
 
     edit "Porn_List"
 
@@ -16,6 +16,6 @@ config system external-resource
 
     next
 
-end
+    end
 
 For configuration in later versions of FortiOS, consult the respective knowledge bases.
