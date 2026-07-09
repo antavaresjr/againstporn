@@ -19,3 +19,5 @@ Configure your external connection as below:
     end
 
 For configuration in later versions of FortiOS, consult the respective knowledge bases.
+
+<img width="451" height="213" alt="image" src="https://github.com/user-attachments/assets/cd458e57-25ce-4998-ae3b-c17c64fc2e8e" />
