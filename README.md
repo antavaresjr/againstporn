@@ -1,4 +1,4 @@
-This is a personal initiative where I wanted to be able to block adult content using a FortiGate model 50E, version 6.2.17, without licensing.
+This is a personal initiative where I wanted to be able to block adult content using a FortiGate model 50E, version 6.2.17, unlicensed (without fortinet UTM licensing).
 
 The list can be used as an External Resource, an attribute available in the Security Fabric menu.
 
