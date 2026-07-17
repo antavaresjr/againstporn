@@ -5,17 +5,11 @@ The list can be used as an External Resource, an attribute available in the Secu
 Configure your external connection as below:
 
     config system external-resource
-
-    edit "Porn_List"
-
-        set type address
-
-        set resource "https://raw.githubusercontent.com/antavaresjr/againstporn/refs/heads/main/lista_enderecos.txt"
-
-        set refresh-rate 1
-
-    next
-
+        edit "Porn_List"
+            set type address
+            set resource "https://raw.githubusercontent.com/antavaresjr/againstporn/refs/heads/main/lista_enderecos.txt"
+            set refresh-rate 1
+        next
     end
 
 For configuration in later versions of FortiOS, consult the respective knowledge bases.
@@ -25,9 +19,9 @@ For configuration in later versions of FortiOS, consult the respective knowledge
 For FortiOS 7.4.X:
 
     config system external-resource
-    edit "My_Threat_Feed"
-        set type address
-        set resource "https://raw.githubusercontent.com/antavaresjr/againstporn/refs/heads/main/lista_enderecos.txt"
-        set refresh-rate 300
-    next
+        edit "Porn_List"
+            set type address
+            set resource "https://raw.githubusercontent.com/antavaresjr/againstporn/refs/heads/main/lista_enderecos.txt"
+            set refresh-rate 300
+        next
     end
