@@ -25,3 +25,6 @@ On FortiOS 7.4.X:
             set refresh-rate 300
         next
     end
+
+New list added:
+https://github.com/StevenBlack/hosts
