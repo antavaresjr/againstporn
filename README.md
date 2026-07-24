@@ -32,3 +32,14 @@ https://github.com/StevenBlack/hosts
 How i can get the ip addresses from urls table entries?
 
 <img width="283" height="163" alt="image" src="https://github.com/user-attachments/assets/a8c974ed-1649-4d94-aa26-86e9900f28ee" />
+
+To install the dig command so you can use dig +short, run the package installation command for your operating system.
+
+Ubuntu/Debian:
+    sudo apt install dnsutils
+
+Fedora/RHEL:
+    sudo dnf install bind-utils
+
+macOS:
+    brew install bind
