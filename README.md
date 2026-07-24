@@ -28,3 +28,7 @@ On FortiOS 7.4.X:
 
 New list added:
 https://github.com/StevenBlack/hosts
+
+How i can get the ip addresses from urls table entries?
+
+<img width="283" height="163" alt="image" src="https://github.com/user-attachments/assets/a8c974ed-1649-4d94-aa26-86e9900f28ee" />
