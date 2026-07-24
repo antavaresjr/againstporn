@@ -36,10 +36,13 @@ How i can get the ip addresses from urls table entries?
 To install the dig command so you can use dig +short, run the package installation command for your operating system.
 
 Ubuntu/Debian:
+    
     sudo apt install dnsutils
 
 Fedora/RHEL:
+    
     sudo dnf install bind-utils
 
 macOS:
+    
     brew install bind
